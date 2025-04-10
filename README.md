@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @justinthecao
 - 👀 I’m interested in computer science :) !! at UCSB 
-- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on cooooooooool projects
 - 📫 How to reach me justinthecao@gmail.com
 <!---
